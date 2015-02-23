@@ -1,0 +1,15 @@
+ハロー ワールド!
+Denmark
+Finland
+Norway
+Sweden
+4
+Denmark
+Finland
+Norway
+Sweden
+Type integers, each followed by Enter; or just Enter to finish
+integer: integer: invalid literal for int() with base 10: 'd'
+integer: integer: invalid literal for int() with base 10: 's'
+integer: integer: invalid literal for int() with base 10: '3s'
+integer: integer: count = 4 total = 106 mean = 26.5
